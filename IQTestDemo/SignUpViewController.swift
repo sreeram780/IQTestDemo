@@ -39,7 +39,6 @@ class SignUpViewController: UIViewController {
         dobField.becomeFirstResponder()
 
     }
-    //MARK: Action Methods
     @IBAction func previousBarButtonTapped(_ sender: UIBarButtonItem)
     {
         emailField.becomeFirstResponder()
